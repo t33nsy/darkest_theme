@@ -173,7 +173,7 @@
 }
 
 .theme-dark .closeButton-1tv5uR {
-    border: 2px solid #f4acc5;
+    border: 2px solid #4B0082;
 }
 
 .theme-dark .closeButton-1tv5uR:hover {
@@ -482,7 +482,7 @@
 }
 
 .accountBtn-2Nozo3 .accountBtnInner-sj5jLs {
-    background-color: #f4acc5;
+    background-color: #4B0082;
 }
 
 .accountBtn-2Nozo3 .accountBtnInner-sj5jLs:hover {
@@ -694,7 +694,7 @@
 }
 
 .uploadArea-3QgLtW .uploadDropModal-2kTwbc .bgScale-1otPtc {
-    background: radial-gradient(ellipse at center, #f4acc5 0%, #000000 100%);
+    background: radial-gradient(ellipse at center,#4B0082 0%, #000000 100%);
     border: none;
 }
 
@@ -712,7 +712,7 @@
 }
   
 .theme-dark .uploadModal-2ifh8j {
-    background: linear-gradient(45deg, #f4acc5 0%, black 40%);
+    background: linear-gradient(45deg, #4B0082 0%, black 40%);
     background-size: cover;
     border-radius: 5px;
 }
@@ -723,12 +723,12 @@
     
 .container-UC8Ug1 {
     border-radius: 4px;
-    border: 1px solid #f4acc5;
+    border: 1px solid #4B0082;
     background-color: rgba(0, 0, 0, .4);
 }
 
 .theme-dark .uploadModal-2ifh8j .inner-3nWsbo .file-34mY5K .icon-kyxXVr.image-2yrs5j {
-    background-color: #f4acc5;
+    background-color: #4B0082;
     border: 3px solid black;
     border-radius: 10%;
     box-shadow: 5px 9px 8px rgba(0, 0, 0, 0.42),5px 4px 8px rgba(0, 0, 0, 0.42),0 0 18px rgba(0, 0, 0, 0.7);
@@ -751,7 +751,7 @@
 }
 
 .theme-dark .selected-1Tbx07 {
-    background: linear-gradient(45deg, #f4acc5 0%, transparent 80%);
+    background: linear-gradient(45deg, #4B0082 0%, transparent 80%);
 }
 
 .theme-dark .contentTitle-2tG_sM strong,
@@ -776,7 +776,7 @@
 }
 
 .theme-dark .modal-yWgWj- {
-    background: linear-gradient(45deg, #000000 30%, #f4acc5 100%);
+    background: linear-gradient(45deg, #000000 30%,#4B0082 100%);
     box-shadow: none;
 }
 
@@ -1962,7 +1962,7 @@
     box-shadow: none;
     border-radius: 25px;
     background-size: cover;
-    background: url(https://sun2.ufanet.userapi.com/impg/0yIQJMvrK1-xAYAfZ-C5eDTZdbOhlNWqNVkywA/gR83aWKNfuY.jpg?size=1000x1415&quality=96&sign=062bbe2df2972e77a5af0b04a9a5d325&type=album) 10%/cover;;
+    background: url(http://images.animelayer.ru/zNe8kknNqKrMX8CyFhA2jA/240x360/1/crop/4d/36/6069e575fd8978002e058f4d_607d89dd53b2d.jpg) 10%/cover;;
 }
 
 .popout-2iWAc- {
